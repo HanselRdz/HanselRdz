@@ -1,4 +1,4 @@
-¡Hola! 
+👋 ¡Hola! 
 
 Soy Hansel Rodríguez, consultor en analítica con experiencia en el desarrollo de soluciones estratégicas para empresas del sector retail y transporte.
 Me especializo en la creación de tableros interactivos, automatización de reportes operativos y generación de insights accionables a partir de datos complejos.
