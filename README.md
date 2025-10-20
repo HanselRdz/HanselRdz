@@ -1,5 +1,12 @@
-## Hi there 👋
+¡Hola! 
 
+Soy Hansel Rodríguez, consultor en analítica con experiencia en el desarrollo de soluciones estratégicas para empresas del sector retail y transporte.
+Me especializo en la creación de tableros interactivos, automatización de reportes operativos y generación de insights accionables a partir de datos complejos.
+En este espacio encontrarás proyectos que forman parte de mi portafolio profesional, incluyendo simulaciones, dashboards en Power BI, y scripts en lenguajes como Python, SQL y R para limpieza, preprocesamiento y análisis de datos.
+
+🚀 Actualmente estoy construyendo ERT Analytics, una consultora enfocada en transformar datos en decisiones inteligentes.
+
+📫 ¿Quieres colaborar o necesitas una solución a medida? Contáctame al (+52) 821 120 2696
 <!--
 **HanselRdz/HanselRdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
